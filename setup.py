@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='dagobah',
       version='0.3.1',
       description='Simple DAG-based job scheduler',
-      url='http://github.com/tthieman/dagobah',
+      url='https://github.com/usertesting/dagobah.git',
       author='Travis Thieman',
       author_email='travis.thieman@gmail.com',
       license='WTFPL',
