@@ -77,8 +77,8 @@ Email:
 
   # email server authentication
   auth_required: True
-  user: AKIAIKQIPV5V2MRXIDDQ
-  password: AiHPFFJrG13Vn9BhPrRFynAOpnsDfolQDO6tOXFWKTt0
+  user: AKIA4NISFY4RF6BG5FZQ
+  password: BHsVAtj9WexnoHqLmpjJtDlT9l3h+wh+X9MbEjvfqzXn
 
 
   # tls is required for some mail servers, specifically Gmail
